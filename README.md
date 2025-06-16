@@ -16,6 +16,12 @@ A secure MPIN validation and strength checking system with a Tkinter GUI. Design
 
 ---
 
+## 📸 Screenshot
+
+![MPIN GUI](screenshot.png)
+
+This is the MPIN setup screen built with Tkinter GUI.
+
 ## 🧠 MPIN Rules (From Task Requirements)
 
 ### ✅ Strength Criteria
@@ -37,6 +43,7 @@ For strong MPINs:
 Strength: STRONG
 Reasons: []
 ```
+
 ## 🚀 How to Run
 ### ✅ Prerequisites:
 Python 3.x installed
